@@ -1,6 +1,6 @@
 # maximaster/tideways-xhprof
 
-Use `tideways-xhprof` PHP extension and this library to save **xhprfo** traces
+Use `tideways-xhprof` PHP extension and this library to save **xhprof** traces
 as files and watch them later with some viewer like
 [wodby/xhprof](https://github.com/wodby/xhprof).
 
