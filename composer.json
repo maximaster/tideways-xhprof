@@ -1,0 +1,18 @@
+{
+    "name": "maximaster/tideways-xhprof",
+    "description": "A library to save tideways-xhprof trace files.",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "ext-mbstring": "*"
+    },
+    "suggest": {
+        "ext-tideways_xhprof": "It won't work without it though it's not necessary to have it installed on production"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maximaster\\TidewaysXhprof\\": "src/"
+        }
+    },
+    "authors": [{"name": "Лавриненко Максим", "email": "maxim.lavrinenko@maximaster.ru"}]
+}
